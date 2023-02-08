@@ -10,3 +10,4 @@ numpy
 matplotlib
 six
 simple-watchdog-timer
+pygame==1.9.6
